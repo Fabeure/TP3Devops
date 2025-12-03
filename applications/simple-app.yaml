@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/votre-username/votre-repo
+    repoURL: https://github.com/Fabeure/TP3Devops.git
     targetRevision: HEAD
     path: applications/simple-app/manifests
   destination:
